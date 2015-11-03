@@ -1,0 +1,9 @@
+[Desktop Entry]
+Exec=sh -c 'myvar="%u" && vlc ${myvar#player://}'
+
+Terminal=false
+MimeType=x-scheme-handler/player
+
+Version=1.0
+Type=Application
+Name=Player Launcher

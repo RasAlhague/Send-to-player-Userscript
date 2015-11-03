@@ -1,0 +1,9 @@
+[Added Associations]
+text/enriched=sublime_text_3.desktop;kde4-okularApplication_txt.desktop;wine-extension-txt.desktop;
+text/plain=sublime_text_3.desktop;kde4-okularApplication_txt.desktop;wine-extension-txt.desktop;
+
+x-scheme-handler/player=to-player.desktop
+
+[Default Applications]
+text/enriched=sublime_text_3.desktop;
+text/plain=sublime_text_3.desktop;
