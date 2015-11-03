@@ -3,4 +3,5 @@ Userscript that finds specified links (usually .mkv, .avi) on page and replace t
 ## Custom URI/URL handler
 To make userscript work with custom URI/URL handler you have to register it in your system.  
 Next links might be usefull:  
-http://edoceo.com/howto/xfce-custom-uri-handler
+http://edoceo.com/howto/xfce-custom-uri-handler  
+https://msdn.microsoft.com/en-us/library/aa767914%28v=vs.85%29.aspx
