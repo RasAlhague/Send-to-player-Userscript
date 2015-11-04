@@ -1,5 +1,8 @@
 # Send-to-player-Userscript
 Userscript that finds specified links (usually ended with .mkv, .avi) on page and replace them this custom URI/URL handler.
+
+Might be usefull when you want to start playing just by 1 click whithout downloading.
+
 ## Custom URI/URL handler
 To make userscript works with custom URI/URL handler you have to register it in your system.  
 Next links might be usefull:  
