@@ -22,7 +22,7 @@ function addJQuery(callback) {
 // the guts of this userscript
 function main() {
   var mimeType = "player://";
-  var formatsToLookFor = [".mkv", ".avi"];
+  var formatsToLookFor = [".mkv", ".avi", ".mp4"];
 
   var selector = "";
   for(i = 0, len = formatsToLookFor.length; i < len; i++) {
