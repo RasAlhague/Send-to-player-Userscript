@@ -32,7 +32,7 @@ function main() {
     selector += "a[href$='" + formatsToLookFor[i] + "']";
   }
 
-  var resetEventInterval = setInterval(resetMouseOverEvent, 1000);
+  var resetEventInterval = setInterval(resetMouseOverEvent, 500);
   
   function resetMouseOverEvent() {
     
